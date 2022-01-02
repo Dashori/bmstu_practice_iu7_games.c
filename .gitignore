@@ -1,0 +1,8 @@
+*.exe
+*.out
+*.o
+*.pch
+*.gch
+*.gcov
+*.gcno
+*.gcda
